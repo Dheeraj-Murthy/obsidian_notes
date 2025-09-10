@@ -5,6 +5,10 @@
       "path": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
     },
     {
+      "basename": "KeyBoard and Other Stuff",
+      "path": "00 - Home/KeyBoard and Other Stuff.md"
+    },
+    {
       "basename": "Inbox",
       "path": "Inbox.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Vim Commands Cheat sheet",
       "path": "04 - Archive/Vim Commands Cheat sheet.md"
-    },
-    {
-      "basename": "KeyBoard and Other Stuff",
-      "path": "00 - Home/KeyBoard and Other Stuff.md"
     },
     {
       "basename": "Graph",

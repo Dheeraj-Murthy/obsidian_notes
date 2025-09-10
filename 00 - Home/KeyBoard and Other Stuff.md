@@ -24,10 +24,6 @@
 
 [Ajazz AK820 MAX](https://www.amazon.in/URX-AK820-MAX-Mechanical-Swappable/dp/B0FB928PSC?crid=1XZ82WGTHE3M7&dib=eyJ2IjoiMSJ9.u_sLMu_oWwk-Kkatt9UAIE5QYKtNsmY4e_4__u-kSwe6tezSSbWdv9dxi0ihjP1itdbbJWMvRcQOmPLJYS7VA44L36aDV8Lm7N2NgaRVGjJdKsikmL8Bx7RJ0DDB2FXytXhq2pGzIUbYdKpVhZ4kVcxMj_dWAkG2K8g_Ii2DvCmTz2RDdZMT848aYvDBavppaJqMQ7GMgM7DkUAobyzntuI2Zhz-b0G_sZZQrq2-meDrH5cDv_EnR8Hr15pET5h8DGefLeVPyMoRgNTwBaEvhN4rjZsGWBcSu-erh8nWOAQ.WfZdzmX-gJuyT49BS6jQlIIsxNjsAX-e4tXEhrHh8YM&dib_tag=se&keywords=AJAZZ%2BAK820Pro&qid=1753556554&s=electronics&sprefix=%2Celectronics%2C317&sr=1-5&th=1) ❤️
 
-# Chair
-
-[Cellbell C190](https://www.amazon.in/CELLBELL-C190-Berlin-Office-Ergonomic/dp/B0CRVLXGS9?linkId=0d5ffaeaa70f988747cfb21fba1c2405&language=en_IN)
-
 # Display
 
 []()
