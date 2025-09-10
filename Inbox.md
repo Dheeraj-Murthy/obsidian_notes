@@ -1,7 +1,7 @@
 ## Tasks
 
 - [ ] NHPC assignment 📅 2025-09-11 
-- [ ] SE assignment
+- [x] SE assignment ✅ 2025-09-10
 - [ ] automata notes
 - [ ] GIS project start 
 
