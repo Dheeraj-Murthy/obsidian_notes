@@ -230,46 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "9336b2c291f289e1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1881fc137c25e27e",
-        "type": "window",
-        "children": [
-          {
-            "id": "24383251bcb68f4d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9412e7f46193ccd4",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Authentication",
-                    "title": "Authentication - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Authentication - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 720,
-        "y": 0,
-        "width": 720,
-        "height": 899,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9412e7f46193ccd4",
+  "active": "ae56db981a5be5e5",
   "lastOpenFiles": [
     "Inbox.md",
     "01 - CP/CP TaskList.md",
