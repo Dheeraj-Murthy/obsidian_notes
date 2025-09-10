@@ -1,0 +1,5 @@
+# Coupons 🎟️
+
+-  Pizza Hut: FREEPIZZA
+-  EATSURE: FREEPIZZA, EATSURE200
+-  SWIGGY: MYCAMPUS (for SwiggyONE)

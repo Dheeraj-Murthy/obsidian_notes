@@ -1,0 +1,66 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCheckSquare",
+      "LiInbox",
+      "LiPaintbrush",
+      "LiLayoutDashboard",
+      "LiListTodo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01 - CP": {
+    "iconName": "LiComputer",
+    "iconColor": "#00ff59"
+  },
+  "04 - Archive": "📪",
+  "03 - Excalidraw": {
+    "iconName": "LiPaintbrush",
+    "iconColor": "#ff7b00"
+  },
+  "08 - todos": {
+    "iconName": "LiListTodo",
+    "iconColor": "#f0d000"
+  },
+  "08 - todos/Projects.md": "✨",
+  "08 - todos/Routines.md": "LiRecycle",
+  "08 - todos/Quick-notes.md": "LiPen",
+  "08 - todos/Coupons.md": "🎟",
+  "00 - Home": {
+    "iconName": "LiAlignJustify",
+    "iconColor": "#a600ff"
+  },
+  "00 - Home/CP DashBoard.md": {
+    "iconName": "LiLayoutDashboard",
+    "iconColor": "#00ff2a"
+  },
+  "Inbox.md": {
+    "iconName": "LiInbox",
+    "iconColor": "#2bff00"
+  }
+}

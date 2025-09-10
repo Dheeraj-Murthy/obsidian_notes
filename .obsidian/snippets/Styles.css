@@ -1,0 +1,31 @@
+/* Internal links in Reading view */
+.markdown-preview-view .internal-link {
+  background: none !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 2px !important;
+  color: var(--text-accent) !important;
+}
+
+/* On hover in Reading view */
+.markdown-preview-view .internal-link:hover {
+  text-decoration-thickness: 2px !important;
+  color: var(--text-accent-hover, var(--text-accent)) !important;
+}
+
+/* Live Preview (Editor mode) */
+.cm-s-obsidian span.cm-hmd-internal-link,
+.cm-s-obsidian span.cm-underline.cm-hmd-internal-link {
+  background: none !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 2px !important;
+  color: var(--text-accent) !important;
+}
+
+/* Hover in Live Preview */
+.cm-s-obsidian span.cm-hmd-internal-link:hover,
+.cm-s-obsidian span.cm-underline.cm-hmd-internal-link:hover {
+  text-decoration-thickness: 2px !important;
+  color: var(--text-accent-hover, var(--text-accent)) !important;
+}

@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#4800f0",
+  "cssTheme": "Obsidianite",
+  "translucency": false,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Styles"
+  ],
+  "showRibbon": true
+}
