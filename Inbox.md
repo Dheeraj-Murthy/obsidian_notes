@@ -4,7 +4,7 @@
 - [ ] SE assignment
 - [ ] automata notes
 - [ ] GIS project 
-- [ ] Pioneers CTF website
+- [ ] Pioneers CTF website 
 ## Incomplete Tasks
 
 ```tasks
