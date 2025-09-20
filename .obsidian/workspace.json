@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "881a14ba002b0a21",
+        "id": "ae14aef989425f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "26ef17b0fdc27696",
+            "id": "a43eee7f4360732e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -229,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26ef17b0fdc27696",
+  "active": "a43eee7f4360732e",
   "lastOpenFiles": [
+    "Inbox.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "00 - Home/KeyBoard and Other Stuff.md",
-    "Inbox.md",
     "01 - CP/CP TaskList.md",
     "08 - todos/Routines.md",
     "Archive/Assets/Screen Shot 2025-07-02 at 4.32.53 PM.jpg",
