@@ -1,4 +1,5 @@
 # Tasks
+- [ ] automata notes
 - [ ] GIS project 
 - [ ] Pioneers CTF website
 
