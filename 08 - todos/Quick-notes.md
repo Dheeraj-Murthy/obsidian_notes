@@ -1,0 +1,2 @@
+- [x] SE assignment ✅ 2025-09-21
+- [x] automata notes ✅ 2025-09-21

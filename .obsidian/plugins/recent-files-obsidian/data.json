@@ -5,16 +5,28 @@
       "path": "Inbox.md"
     },
     {
+      "basename": "Quick-notes",
+      "path": "08 - todos/Quick-notes.md"
+    },
+    {
+      "basename": "KeyBoard and Other Stuff",
+      "path": "00 - Home/KeyBoard and Other Stuff.md"
+    },
+    {
+      "basename": "CP DashBoard",
+      "path": "00 - Home/CP DashBoard.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "08 - todos/Projects.md"
+    },
+    {
       "basename": "Drawing 2025-06-28 23.25.36.excalidraw",
       "path": "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md"
     },
     {
       "basename": "Drawing 2025-06-28 23.19.18.excalidraw",
       "path": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
-    },
-    {
-      "basename": "KeyBoard and Other Stuff",
-      "path": "00 - Home/KeyBoard and Other Stuff.md"
     },
     {
       "basename": "CP TaskList",
@@ -37,20 +49,12 @@
       "path": "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md"
     },
     {
-      "basename": "CP DashBoard",
-      "path": "00 - Home/CP DashBoard.md"
-    },
-    {
       "basename": "Bitmask ideas",
       "path": "01 - CP/Bitmask ideas.md"
     },
     {
       "basename": "binary search",
       "path": "01 - CP/binary search.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "08 - todos/Projects.md"
     },
     {
       "basename": "String Algos",
@@ -75,10 +79,6 @@
     {
       "basename": "Coupons",
       "path": "08 - todos/Coupons.md"
-    },
-    {
-      "basename": "Quick-notes",
-      "path": "08 - todos/Quick-notes.md"
     }
   ],
   "omittedPaths": [],
