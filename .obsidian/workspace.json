@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d427ded20f61eb",
+        "id": "1f4bf4bdb44be445",
         "type": "tabs",
         "children": [
           {
-            "id": "3c52349c8893c8cf",
+            "id": "d653b2c8c5a28eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00 - Home/KeyBoard and Other Stuff.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "KeyBoard and Other Stuff"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-28 23.25.36.excalidraw"
             }
           }
         ]
@@ -106,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "efb7af435639986e",
@@ -212,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,12 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c52349c8893c8cf",
+  "active": "d653b2c8c5a28eb6",
   "lastOpenFiles": [
     "Inbox.md",
+    "00 - Home/KeyBoard and Other Stuff.md",
     "conflict-files-obsidian-git.md",
     "08 - todos/Quick-notes.md",
-    "00 - Home/KeyBoard and Other Stuff.md",
     "00 - Home/CP DashBoard.md",
     "08 - todos/Projects.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md",
