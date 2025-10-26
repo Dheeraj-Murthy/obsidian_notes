@@ -1,4 +1,4 @@
-formula for stuff like 
+
 
 base of point in line
 foot of perpendicular
@@ -9,3 +9,4 @@ counting problems
 Newton's method
 
 molality mole concept
+thermodynamics questions
