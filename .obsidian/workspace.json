@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec807d5f8416bb2a",
+        "id": "640b3248fd03bf58",
         "type": "tabs",
         "children": [
           {
-            "id": "0b2757465c5710c4",
+            "id": "cd4d96eb72d85db3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md"
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-28 23.25.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ]
@@ -227,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b2757465c5710c4",
+  "active": "cd4d96eb72d85db3",
   "lastOpenFiles": [
-    "Inbox.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md",
+    "Inbox.md",
     "02 - JaanuJee/Jaanu topics.md",
     "Untitled.md",
     "Untitled 1.md",
