@@ -5,6 +5,7 @@
 - [ ] oily skin
 - [ ] hairy skin
 - [x] external noise (specify as not affecting) ✅ 2025-11-02
+- [ ] misplaced patches
 
 ## notes
 
