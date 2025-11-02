@@ -1,4 +1,4 @@
-- [ ] ideal conditions
+- [x] ideal conditions ✅ 2025-11-02 (9.36V, 9.38V)
 - [ ] once reused patch
 - [ ] 5 times reused pathc
 - [ ] low voltage battery
