@@ -1,0 +1,7 @@
+- [ ] ideal conditions
+- [ ] once reused patch
+- [ ] 5 times reused pathc
+- [ ] low voltage battery
+- [ ] oily skin
+- [ ] hairy skin
+- [ ] external noise (specify as not affecting)
