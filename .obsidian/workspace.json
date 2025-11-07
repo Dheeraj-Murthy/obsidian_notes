@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "04 - Archive/PE objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "PE objectives"
             }
           }
         ]
@@ -231,8 +231,8 @@
   },
   "active": "a5afbff6105cfdba",
   "lastOpenFiles": [
-    "04 - Archive/PE objectives.md",
     "Inbox.md",
+    "04 - Archive/PE objectives.md",
     "08 - todos/Quick-notes.md",
     "08 - todos/Routines.md",
     "04 - Archive/Vim Commands Cheat sheet.md",
