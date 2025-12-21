@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "db029d9ced5556a3",
+        "id": "9442b2f6f288236f",
         "type": "tabs",
         "children": [
           {
-            "id": "8f51077f2755556d",
+            "id": "8293fc10575bcb3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "00 - Home/KeyBoard and Other Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "KeyBoard and Other Stuff"
+            }
+          },
+          {
+            "id": "0049118103e97b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Home/CV stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV stuff"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +244,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f51077f2755556d",
+  "active": "0049118103e97b9c",
   "lastOpenFiles": [
-    "04 - Archive/PE objectives.md",
+    "00 - Home/KeyBoard and Other Stuff.md",
+    "00 - Home/CV stuff.md",
     "Inbox.md",
+    "04 - Archive/PE objectives.md",
     "08 - todos/Quick-notes.md",
     "08 - todos/Routines.md",
     "04 - Archive/Vim Commands Cheat sheet.md",
@@ -247,7 +264,6 @@
     "Archive/Assets/Screen Shot 2025-10-10 at 10.34.32 PM.jpg",
     "Archive/Assets",
     "Archive",
-    "00 - Home/KeyBoard and Other Stuff.md",
     "conflict-files-obsidian-git.md",
     "00 - Home/CP DashBoard.md",
     "01 - CP/CP TaskList.md",
@@ -266,7 +282,6 @@
     "03 - Excalidraw/Drawing 2025-06-24 23.56.28.excalidraw.md",
     "03 - Excalidraw/Drawing 2025-06-24 23.57.52.excalidraw.md",
     "Excalidraw",
-    "01 - CP/Trie.md",
     "03 - Excalidraw",
     "04 - Archive/Assets",
     "04 - Archive/Assets/1n3eIVI8FdvTaX3_GsM21_g.png",
