@@ -2,8 +2,8 @@
 - [x] once reused patch ✅ 2025-11-04
 - [x] 5 times reused pathc ✅ 2025-11-04
 - [x] low voltage battery ✅ 2025-11-02
-- [ ] oily skin
-- [ ] hairy skin
+- [x] oily skin ✅ 2026-01-04
+- [x] hairy skin ✅ 2026-01-04
 - [x] external noise (specify as not affecting) ✅ 2025-11-02
 - [x] misplaced patches ✅ 2025-11-04
 

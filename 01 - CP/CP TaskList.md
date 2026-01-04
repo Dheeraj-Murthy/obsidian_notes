@@ -1,6 +1,7 @@
 - [ ] DP
 - [ ] Graph
-	- [ ] Graph Traversal
-		- [ ] BFS
-		- [ ] DFS
-	
+	- [x] Graph Traversal ✅ 2026-01-04
+		- [x] BFS ✅ 2026-01-04
+		- [x] DFS ✅ 2026-01-04
+- [ ] XOR math problems
+- [ ] 

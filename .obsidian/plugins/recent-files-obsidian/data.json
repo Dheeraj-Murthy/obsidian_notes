@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "CP TaskList",
+      "path": "01 - CP/CP TaskList.md"
+    },
+    {
+      "basename": "binary search",
+      "path": "01 - CP/binary search.md"
+    },
+    {
+      "basename": "CP DashBoard",
+      "path": "00 - Home/CP DashBoard.md"
+    },
+    {
+      "basename": "Vim Commands Cheat sheet",
+      "path": "04 - Archive/Vim Commands Cheat sheet.md"
+    },
+    {
+      "basename": "PE objectives",
+      "path": "04 - Archive/PE objectives.md"
+    },
+    {
+      "basename": "Linux Server Setup",
+      "path": "04 - Archive/Linux Server Setup.md"
+    },
+    {
       "basename": "Inbox",
       "path": "Inbox.md"
+    },
+    {
+      "basename": "Quick-notes",
+      "path": "08 - todos/Quick-notes.md"
     },
     {
       "basename": "CV stuff",
@@ -13,20 +41,8 @@
       "path": "00 - Home/KeyBoard and Other Stuff.md"
     },
     {
-      "basename": "PE objectives",
-      "path": "04 - Archive/PE objectives.md"
-    },
-    {
-      "basename": "Quick-notes",
-      "path": "08 - todos/Quick-notes.md"
-    },
-    {
       "basename": "Routines",
       "path": "08 - todos/Routines.md"
-    },
-    {
-      "basename": "Vim Commands Cheat sheet",
-      "path": "04 - Archive/Vim Commands Cheat sheet.md"
     },
     {
       "basename": "Projects",
@@ -49,14 +65,6 @@
       "path": "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md"
     },
     {
-      "basename": "CP DashBoard",
-      "path": "00 - Home/CP DashBoard.md"
-    },
-    {
-      "basename": "CP TaskList",
-      "path": "01 - CP/CP TaskList.md"
-    },
-    {
       "basename": "Drawing 2025-08-31 17.26.12.excalidraw",
       "path": "03 - Excalidraw/Drawing 2025-08-31 17.26.12.excalidraw.md"
     },
@@ -69,16 +77,8 @@
       "path": "01 - CP/Bitmask ideas.md"
     },
     {
-      "basename": "binary search",
-      "path": "01 - CP/binary search.md"
-    },
-    {
       "basename": "String Algos",
       "path": "01 - CP/String Algos.md"
-    },
-    {
-      "basename": "Linux Server Setup",
-      "path": "04 - Archive/Linux Server Setup.md"
     },
     {
       "basename": "Graph",
