@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - CP/CP TaskList.md",
+                "file": "04 - Archive/Legal NLP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CP TaskList"
+              "title": "Legal NLP"
             }
           }
         ]
@@ -231,9 +231,10 @@
   },
   "active": "101e35182467315c",
   "lastOpenFiles": [
+    "01 - CP/CP TaskList.md",
+    "04 - Archive/Legal NLP.md",
     "01 - CP/binary search.md",
     "00 - Home/CP DashBoard.md",
-    "01 - CP/CP TaskList.md",
     "04 - Archive/Vim Commands Cheat sheet.md",
     "04 - Archive/PE objectives.md",
     "04 - Archive/Linux Server Setup.md",
@@ -265,7 +266,6 @@
     "01 - CP/String Algos.md",
     "03 - Excalidraw/Drawing 2025-06-25 00.01.08.excalidraw.md",
     "03 - Excalidraw/Drawing 2025-06-24 23.56.28.excalidraw.md",
-    "03 - Excalidraw/Drawing 2025-06-24 23.57.52.excalidraw.md",
     "Excalidraw",
     "03 - Excalidraw",
     "04 - Archive/Assets",
