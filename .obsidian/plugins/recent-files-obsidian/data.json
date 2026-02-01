@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Inbox",
+      "path": "Inbox.md"
+    },
+    {
       "basename": "Legal NLP",
       "path": "04 - Archive/Legal NLP.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Linux Server Setup",
       "path": "04 - Archive/Linux Server Setup.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Inbox.md"
     },
     {
       "basename": "Quick-notes",
