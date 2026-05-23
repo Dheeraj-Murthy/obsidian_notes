@@ -1,9 +1,0 @@
-## **Title**
-
-**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**
-
-## **Proposal / Abstract**
-
-Transcranial Magnetic Stimulation (TMS) experiments require reliable Electromyography (EMG) signal acquisition to measure Motor Evoked Potentials (MEPs) and support neuroscience research. Current experimental workflows rely heavily on proprietary acquisition software, which limits flexibility, automation, and real-time control while also increasing dependency on closed research systems.   Preliminary EMG studies further showed that signal quality is highly sensitive to electrical interference, unstable power conditions, electrode placement, and hardware limitations, making reliable acquisition difficult in practical research environments.  
-
-This project proposes the development of a lightweight real-time EMG acquisition system for TMS experiments using direct communication with Micro1401 hardware through CED drivers. The proposed software pipeline will support continuous EMG acquisition, live visualization, automated logging, and open-format data storage for integration with modern research and analysis tools.   In parallel, the project also proposes the development of a separate experimental EMG hardware pipeline focused on low-cost and modular EMG acquisition hardware for research applications. This includes exploration of custom amplification and filtering circuits, noise reduction mechanisms, portable acquisition modules, and standardized signal conditioning approaches to improve acquisition stability and signal quality. The combined software and hardware framework aims to create an affordable, extensible, and research-friendly EMG platform that can support future work in neuroscience, neuroengineering, rehabilitation systems, and biomedical signal analysis.

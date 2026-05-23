@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Dev/Proposal.md",
+                "file": "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposal"
+              "title": "**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**"
             }
           }
         ],
@@ -261,7 +261,7 @@
   "active": "a231bc942b0f5e39",
   "lastOpenFiles": [
     "02 - Dev/Feature List.md",
-    "02 - Dev/Proposal.md",
+    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "Inbox.md",
     "04 - Archive/Notes/2026-02-18.md",
     "2026-02-18.md",
