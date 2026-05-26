@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9110cd812d028f49",
+        "id": "804e05d677416998",
         "type": "tabs",
         "children": [
           {
-            "id": "159ea65d75e901b6",
+            "id": "63e942924cd38ce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-28 23.19.18.excalidraw"
             }
           }
         ]
@@ -229,11 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "159ea65d75e901b6",
+  "active": "63e942924cd38ce3",
   "lastOpenFiles": [
-    "02 - Dev/Feature List.md",
-    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "Inbox.md",
+    "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
+    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
+    "02 - Dev/Feature List.md",
     "04 - Archive/Notes/2026-02-18.md",
     "2026-02-18.md",
     "04 - Archive/Notes",
@@ -253,7 +252,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "02 - Dev",
-    "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md",
     "Archive/Assets/Screen Shot 2025-10-10 at 10.34.32 PM.jpg",
     "Archive/Assets",
