@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5237d6d619cbb719",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cb673b680b272cb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Dev/Today food options.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Today food options"
             }
           }
         ]
@@ -225,12 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cb673b680b272cb6",
   "lastOpenFiles": [
-    "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "Inbox.md",
+    "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
-    "02 - Dev/Feature List.md",
+    "02 - Dev/Today food options.md",
     "04 - Archive/Notes/2026-02-18.md",
     "2026-02-18.md",
     "04 - Archive/Notes",
