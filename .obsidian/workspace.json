@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "804e05d677416998",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "63e942924cd38ce3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-28 23.19.18.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -210,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63e942924cd38ce3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Inbox.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
+    "Inbox.md",
     "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "02 - Dev/Feature List.md",
     "04 - Archive/Notes/2026-02-18.md",
