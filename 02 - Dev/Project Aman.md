@@ -1,6 +1,27 @@
-- [ ] Auth
+- [ ] Auth #L0
 	- [ ] Create User
 	- [ ] Login
-	- [ ] Add user data like dob, etc
+	- [ ] Add user data
+		- [ ] name
+		- [ ] email
+		- [ ] phone number #advanced
 	- [ ] add platform credentials
-- [ ] Data collection for 
+		- [ ] codeforces
+		- [ ] leetcode
+		- [ ] atcoder
+		- [ ] codechef
+- [ ] #Dashboard #L1 Data collection for each platform
+	- [ ] questions completed total
+	- [ ] questions completed per tag
+	- [ ] heatmap
+	- [ ] tag/topic map / graph
+- [ ] #contest #L2 Groups of members and ability of hold contests within that group.
+	- [ ] Many users can join
+	- [ ] admin can create a contest for a duration spanning to days weeks hours or anything.
+	- [ ] A list of problems to solve from multiple platforms
+	- [ ] checking if a users solved a problem from list. Refresh button to perform checking.
+	- [ ] Ranking / ELO
+	- [ ] in house generate problem button that takes in parameters such as parent platform and difficulty range and tags, and provides a list of problems from the selection that have not be attempted by any participant. the contest admin can then choose the problem from the list to add.
+	- [ ] storage of previous contest and history for a group.
+- [ ] #Dashboard #L2 ELO system specific to this platform and group. based on previous contests
+- [ ] #L3 Web Socket implementaition

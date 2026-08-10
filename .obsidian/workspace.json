@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "553768be3749d8ed",
@@ -244,10 +245,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a422c012b5c74d5",
+  "active": "aad6724e0ed46061",
   "lastOpenFiles": [
-    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "02 - Dev/Project Aman.md",
+    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "Inbox.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/Today food options.md",
