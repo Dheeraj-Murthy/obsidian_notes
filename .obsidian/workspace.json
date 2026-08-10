@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5acae760cae7b028",
+        "id": "44a586e4aef9362a",
         "type": "tabs",
         "children": [
           {
-            "id": "3db7b303ab152518",
+            "id": "8c6de38f4bd99af7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "markdown",
               "state": {
-                "file": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
+                "file": "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-06-28 23.19.18.excalidraw"
+              "title": "**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**"
+            }
+          },
+          {
+            "id": "7a422c012b5c74d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Dev/Project Aman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Aman"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,12 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3db7b303ab152518",
+  "active": "7a422c012b5c74d5",
   "lastOpenFiles": [
+    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
+    "02 - Dev/Project Aman.md",
     "Inbox.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/Today food options.md",
-    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "04 - Archive/Notes/2026-02-18.md",
     "2026-02-18.md",
     "04 - Archive/Notes",
@@ -264,7 +282,6 @@
     "Untitled 1.canvas",
     "03 - Excalidraw/Drawing 2025-08-31 17.26.12.excalidraw.md",
     "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md",
-    "01 - CP/Bitmask ideas.md",
     "Excalidraw",
     "03 - Excalidraw",
     "04 - Archive/Assets",

@@ -1,0 +1,6 @@
+- [ ] Auth
+	- [ ] Create User
+	- [ ] Login
+	- [ ] Add user data like dob, etc
+	- [ ] add platform credentials
+- [ ] Data collection for 
