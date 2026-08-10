@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Inbox",
-      "path": "Inbox.md"
-    },
-    {
       "basename": "Project Aman",
       "path": "02 - Dev/Project Aman.md"
+    },
+    {
+      "basename": "CP TaskList",
+      "path": "01 - CP/CP TaskList.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox.md"
     },
     {
       "basename": "**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**",
@@ -27,10 +31,6 @@
     {
       "basename": "Legal NLP",
       "path": "04 - Archive/Legal NLP.md"
-    },
-    {
-      "basename": "CP TaskList",
-      "path": "01 - CP/CP TaskList.md"
     },
     {
       "basename": "binary search",

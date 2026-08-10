@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "aa44fefe1a20e962",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d21cbf53962d6215",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Dev/Project Aman.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Aman"
             }
           }
         ]
@@ -81,8 +85,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "553768be3749d8ed",
@@ -226,18 +229,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d21cbf53962d6215",
   "lastOpenFiles": [
+    "01 - CP/CP TaskList.md",
     "02 - Dev/Project Aman.md",
-    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "Inbox.md",
+    "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/Today food options.md",
     "04 - Archive/Notes/2026-02-18.md",
     "2026-02-18.md",
     "04 - Archive/Notes",
     "04 - Archive/Legal NLP.md",
-    "01 - CP/CP TaskList.md",
     "01 - CP/binary search.md",
     "00 - Home/CP DashBoard.md",
     "04 - Archive/Vim Commands Cheat sheet.md",

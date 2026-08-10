@@ -1,15 +1,15 @@
 - [ ] Auth #L0
-	- [ ] Create User
-	- [ ] Login
-	- [ ] Add user data
-		- [ ] name
-		- [ ] email
-		- [ ] phone number #advanced
-	- [ ] add platform credentials
-		- [ ] codeforces
-		- [ ] leetcode
-		- [ ] atcoder
-		- [ ] codechef
+	- [x] Create User ✅ 2026-08-10
+	- [x] Login ✅ 2026-08-10
+	- [x] Add user data ✅ 2026-08-10
+		- [x] name ✅ 2026-08-10
+		- [x] email ✅ 2026-08-10
+		- [x] phone number #advanced ✅ 2026-08-10
+	- [x] add platform credentials ✅ 2026-08-10
+		- [x] codeforces ✅ 2026-08-10
+		- [x] leetcode ✅ 2026-08-10
+		- [x] atcoder ✅ 2026-08-10
+		- [x] codechef ✅ 2026-08-10
 - [ ] #Dashboard #L1 Data collection for each platform
 	- [ ] questions completed total
 	- [ ] questions completed per tag
@@ -25,3 +25,8 @@
 	- [ ] storage of previous contest and history for a group.
 - [ ] #Dashboard #L2 ELO system specific to this platform and group. based on previous contests
 - [ ] #L3 Web Socket implementaition
+
+
+# Bugs
+- [ ] i can't seem to sync leetcode codechef or atcoder taking too long
+- [ ] make it look nice
