@@ -11,12 +11,12 @@
             "id": "3db7b303ab152518",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-28 23.19.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Drawing 2025-06-28 23.19.18.excalidraw"
             }
           }
         ]
