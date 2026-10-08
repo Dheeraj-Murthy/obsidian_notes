@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa44fefe1a20e962",
+        "id": "5848f1bd80a99c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d21cbf53962d6215",
+            "id": "cfc1b73061bdb7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Dev/Project Aman.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Aman"
+              "title": "Inbox"
             }
           }
         ]
@@ -231,11 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d21cbf53962d6215",
+  "active": "cfc1b73061bdb7e1",
   "lastOpenFiles": [
-    "01 - CP/CP TaskList.md",
-    "02 - Dev/Project Aman.md",
     "Inbox.md",
+    "02 - Dev/Project Aman.md",
+    "01 - CP/CP TaskList.md",
     "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/Today food options.md",
