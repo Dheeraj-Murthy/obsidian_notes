@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5848f1bd80a99c5b",
+        "id": "85d305a1f3995eca",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc1b73061bdb7e1",
+            "id": "41fba8e484513599",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "3bbda1f34edfdea8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-28 23.25.36.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfc1b73061bdb7e1",
+  "active": "3bbda1f34edfdea8",
   "lastOpenFiles": [
     "Inbox.md",
     "02 - Dev/Project Aman.md",
