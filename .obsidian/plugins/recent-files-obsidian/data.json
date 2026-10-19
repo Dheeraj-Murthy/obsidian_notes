@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-08-25 00.52.26.excalidraw",
+      "path": "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md"
+    },
+    {
+      "basename": "Coupons",
+      "path": "08 - todos/Coupons.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "08 - todos/Projects.md"
+    },
+    {
+      "basename": "Quick-notes",
+      "path": "08 - todos/Quick-notes.md"
+    },
+    {
+      "basename": "Drawing 2025-07-28 14.41.35.excalidraw",
+      "path": "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-06-28 23.19.18.excalidraw",
+      "path": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox.md"
+    },
+    {
+      "basename": "Today food options",
+      "path": "02 - Dev/Today food options.md"
+    },
+    {
       "basename": "binary search",
       "path": "01 - CP/binary search.md"
     },
     {
       "basename": "Drawing 2025-06-28 23.25.36.excalidraw",
       "path": "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Inbox.md"
     },
     {
       "basename": "Project Aman",
@@ -23,14 +51,6 @@
     {
       "basename": "**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**",
       "path": "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md"
-    },
-    {
-      "basename": "Drawing 2025-06-28 23.19.18.excalidraw",
-      "path": "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md"
-    },
-    {
-      "basename": "Today food options",
-      "path": "02 - Dev/Today food options.md"
     },
     {
       "basename": "2026-02-18",
@@ -57,10 +77,6 @@
       "path": "04 - Archive/Linux Server Setup.md"
     },
     {
-      "basename": "Quick-notes",
-      "path": "08 - todos/Quick-notes.md"
-    },
-    {
       "basename": "CV stuff",
       "path": "00 - Home/CV stuff.md"
     },
@@ -73,20 +89,8 @@
       "path": "08 - todos/Routines.md"
     },
     {
-      "basename": "Projects",
-      "path": "08 - todos/Projects.md"
-    },
-    {
-      "basename": "Drawing 2025-07-28 14.41.35.excalidraw",
-      "path": "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md"
-    },
-    {
       "basename": "Drawing 2025-08-31 17.26.12.excalidraw",
       "path": "03 - Excalidraw/Drawing 2025-08-31 17.26.12.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2025-08-25 00.52.26.excalidraw",
-      "path": "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md"
     },
     {
       "basename": "Bitmask ideas",
@@ -103,10 +107,6 @@
     {
       "basename": "Dynamic Programming",
       "path": "01 - CP/Dynamic Programming.md"
-    },
-    {
-      "basename": "Coupons",
-      "path": "08 - todos/Coupons.md"
     }
   ],
   "omittedPaths": [],
