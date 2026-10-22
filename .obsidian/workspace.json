@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e047bffe0b699f54",
+        "id": "61d91083805b0475",
         "type": "tabs",
         "children": [
           {
-            "id": "2488fdcb310838c3",
+            "id": "278a5c112c34cbc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +87,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "553768be3749d8ed",
@@ -109,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 281.76171875
   },
   "right": {
     "id": "efb7af435639986e",
@@ -215,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,22 +229,23 @@
       "canvas:Create new canvas": false,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "2488fdcb310838c3",
+  "active": "278a5c112c34cbc7",
   "lastOpenFiles": [
+    "02 - Dev/Project Aman.md",
     "Inbox.md",
-    "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md",
     "08 - todos/Coupons.md",
-    "08 - todos/Projects.md",
-    "08 - todos/Quick-notes.md",
     "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md",
+    "08 - todos/Projects.md",
+    "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md",
+    "08 - todos/Quick-notes.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
     "02 - Dev/Today food options.md",
     "01 - CP/binary search.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md",
-    "02 - Dev/Project Aman.md",
     "01 - CP/CP TaskList.md",
     "02 - Dev/**Development of Lightweight Real-Time EMG Acquisition and Experimental Hardware Pipelines for TMS Research**.md",
     "04 - Archive/Notes/2026-02-18.md",

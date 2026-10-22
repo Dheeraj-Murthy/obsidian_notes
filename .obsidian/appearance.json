@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
@@ -10,5 +10,7 @@
     "Colored Sidebar Items",
     "Styles"
   ],
-  "showRibbon": true
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true
 }
