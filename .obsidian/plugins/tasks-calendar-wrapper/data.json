@@ -1,5 +1,7 @@
 {
   "openViewOnStartup": true,
+  "showWhatsNewOnUpdate": true,
+  "lastSeenVersion": "0.3.7",
   "filterEmpty": true,
   "excludePaths": [],
   "includePaths": [],
@@ -17,7 +19,8 @@
   "sectionForNewTasks": "## Tasks",
   "hideTags": [],
   "forward": true,
-  "sort": "(t1, t2) => t1.order <= t2.order ? -1 : 1",
+  "forwardPastStartAndScheduled": false,
+  "sort": "status-asc",
   "taskStatusOrder": [
     "overdue",
     "due",
@@ -46,10 +49,12 @@
   "useTags": true,
   "useFileBadge": true,
   "useSection": true,
+  "useModifyBadge": true,
   "hideStatusTasks": [
     "x",
     "-"
   ],
+  "hideSubTasks": false,
   "defaultTodayFocus": false,
   "defaultFilters": "",
   "useBuiltinStyle": true,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "606a0b51683b0f25",
+        "id": "e047bffe0b699f54",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6c75bd39b5b38b",
+            "id": "2488fdcb310838c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,10 +84,11 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "553768be3749d8ed",
@@ -183,7 +184,7 @@
             }
           },
           {
-            "id": "4361bfebf37ba1d7",
+            "id": "638f36b4048be524",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -231,15 +232,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a6c75bd39b5b38b",
+  "active": "2488fdcb310838c3",
   "lastOpenFiles": [
+    "Inbox.md",
     "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md",
     "08 - todos/Coupons.md",
     "08 - todos/Projects.md",
     "08 - todos/Quick-notes.md",
     "03 - Excalidraw/Drawing 2025-07-28 14.41.35.excalidraw.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.19.18.excalidraw.md",
-    "Inbox.md",
     "02 - Dev/Today food options.md",
     "01 - CP/binary search.md",
     "03 - Excalidraw/Drawing 2025-06-28 23.25.36.excalidraw.md",
