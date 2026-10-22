@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94f94d6dbe3b8b6d",
+        "id": "606a0b51683b0f25",
         "type": "tabs",
         "children": [
           {
-            "id": "8e213c46dfe0f2b2",
+            "id": "0a6c75bd39b5b38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
-          },
-          {
-            "id": "8d03aab467d0287c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-25 00.52.26.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d03aab467d0287c",
+  "active": "0a6c75bd39b5b38b",
   "lastOpenFiles": [
+    "03 - Excalidraw/Drawing 2025-08-25 00.52.26.excalidraw.md",
     "08 - todos/Coupons.md",
     "08 - todos/Projects.md",
     "08 - todos/Quick-notes.md",
@@ -282,7 +269,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.canvas",
-    "03 - Excalidraw/Drawing 2025-08-31 17.26.12.excalidraw.md",
     "Excalidraw",
     "03 - Excalidraw",
     "04 - Archive/Assets",
